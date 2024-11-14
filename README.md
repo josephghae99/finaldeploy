@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Config App
 Create a file named `.env.local` in the current directory and copy the contents from `.env.example`. Setting the following content:
 ```
-# APP ID
+# APP ID APP ID
 NEXT_PUBLIC_APP_ID=
 # APP API key
 NEXT_PUBLIC_APP_KEY=
